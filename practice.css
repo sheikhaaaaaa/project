@@ -22,7 +22,6 @@ body .demo {
 }
 
 .firstdiv {
-    overflow: hidden;
     background-color: #0e0e0e;
     position: fixed;
     top: 0;
@@ -34,7 +33,6 @@ body .demo {
 
 @media (max-width:360px) {
     .firstdiv {
-        overflow: hidden;
         background-color: #0e0e0e;
         position: fixed;
         top: 0;
